@@ -1,0 +1,2 @@
+add_subdirectory(xplane_sdk)
+add_xplane_plugin(XP11_plugin.cpp your_plugin_file2.cpp)
